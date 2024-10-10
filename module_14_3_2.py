@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # Токен вашего бота
-API_TOKEN = '7707735615:AAGTv-6x0mrzo4wf8svUoJBPRNzCLA9r24Y'  # Замените на ваш токен
+API_TOKEN = 'токен'  # Замените на ваш токен
 
 # Настраиваем логирование
 logging.basicConfig(level=logging.INFO)
